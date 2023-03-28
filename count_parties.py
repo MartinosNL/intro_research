@@ -8,7 +8,7 @@ def get_files(total_2017, total_2021):
     file_2021_base = '/net/corpora/twitter2/Tweets/2021/03/202103'
     vvd_count, pvv_count, cda_count, d66_count, gl_count, sp_count, pvda_count, cu_count = 0, 0, 0, 0, 0, 0, 0, 0
     for day in range(7):
-        print(f'Day {day+1}')
+        print(f'Day {day+1}') # Prints the day it is currently working on
         day = str(day+8).zfill(2)
         for hour in range(24):
             hour = str(hour).zfill(2)
@@ -17,7 +17,7 @@ def get_files(total_2017, total_2021):
     print_result2017(total_2017, vvd_count, pvv_count, cda_count, d66_count, gl_count, sp_count, pvda_count, cu_count)
     vvd_count, d66_count, pvv_count, cda_count, sp_count, pvda_count, gl_count, fvd_count = 0, 0, 0, 0, 0, 0, 0, 0,
     for day in range(7):
-        print(f'Day {day+1}')
+        print(f'Day {day+1}') # Prints the day it is currently working on
         day = str(day+10).zfill(2)
         for hour in range(24):
             hour = str(hour).zfill(2)
