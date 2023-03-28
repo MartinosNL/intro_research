@@ -17,14 +17,3 @@ The hypotheses is that there will not be a significant relation between the freq
 
 ## Method
 This paper aims to answer that question by using a Python script to check how often political parties get mentioned in the week beforethe 2017 and 2021 election. Then these results get compared to the results of the election to see if the percentage of mentions on Twitter is equal to the percentage of votes a party receives
-
-## References
-<a id="1">[1]</a> 
-Kreis, R. (2017). 
-The “Tweet Politics” of President Trump. 
-Journal of Language and Politics, Volume 16, Issue 4.
-<a id="1">[2]</a> 
-Bestvater, S.; Shah, S.; Rivero, S.; Smith, A. (2022). 
-Politics on Twitter: One-Third of Tweets From U.S. Adults Are Political. 
-Pew Research Center.
-
